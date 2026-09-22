@@ -12,7 +12,8 @@ namespace MidtermExam.Prob02
         /// <returns>LinkedList ที่ได้รับการเรียงลำดับจากน้อยไปมากแล้ว</returns>
         public LinkedList<int> SortAscending(LinkedList<int> list)
         {
-            // TODO: Implement sorting algorithm for LinkedList<int> (Ascending)
+            LinkedList<int> linkedList = new LinkedList<int>();
+
             return list;
         }
 
@@ -23,7 +24,8 @@ namespace MidtermExam.Prob02
         /// <returns>LinkedList ที่ได้รับการเรียงลำดับจากมากไปน้อยแล้ว</returns>
         public LinkedList<int> SortDescending(LinkedList<int> list)
         {
-            // TODO: Implement sorting algorithm for LinkedList<int> (Descending)
+            LinkedList<int> linkedList = new LinkedList<int>();
+
             return list;
         }
     }
